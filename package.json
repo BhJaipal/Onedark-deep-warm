@@ -1,0 +1,18 @@
+{
+  "name": "Onedark-deep-warm",
+  "version": "1.0.0",
+  "description": "Onedark deep + Warm theme for VS Code",
+  "author": {
+    "email": "jaipalbhanwariya001@gmail.com",
+    "name": "Jaipal"
+  },
+  "bugs": "https://github.com/BhJaipal/Onedark-deep-warm/issues",
+  "categories": [ "Themes" ],
+  "contributes": {
+    "themes": [{
+      "label": "Onedark deep warm",
+      "uiTheme": "vs-dark",
+      "path": "./deep_warm.json"
+    }]
+  }
+}
